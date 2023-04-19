@@ -1,4 +1,4 @@
-![古神.ico](./import source/古神.png)
+![古神.ico](https://raw.githubusercontent.com/lanchuangdexingjian/You-yes-or-no-me/main/import%20source/%E5%8F%A4%E7%A5%9E.png)
 # 你愿不愿意跟我交往
 ## 简介
 “你愿不愿意跟我交往”项目是在一个宁静的下午由web公司的李老板提出的伟大项目，此项目加深了我们与古神之间的联系，丰富了我们的平时生活并让我们能无时无刻的目睹古神的雄姿！
